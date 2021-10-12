@@ -6,3 +6,6 @@ To run them you need `RCC` (`https://github.com/robocorp/rcc`) and, in most case
 
 **Note:** The challenges 2 and 3 are not that practical, they are more to think that to code, so I did not uploaded them.
 
+## License
+
+The License is described in the LICENSE.md file.
