@@ -5,6 +5,11 @@ This robot solves the RPA Challenge page (`http://rpachallenge.com/`) as describ
 ## Requirements
 You should have installed Firefox Browser or Google Chrome to run this bot.
 
+## License
+
+The License is described in the LICENSE.md file.
 
 ### Additional information
 See [Robocorp](https://robocorp.com).
+
+

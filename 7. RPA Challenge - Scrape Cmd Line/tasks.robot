@@ -1,5 +1,6 @@
 *** Settings ***
-Documentation   Template robot main suite.
+Documentation   This Robots solves Challengue 7 (https://forum.uipath.com/t/7-rpa-challenge-scrape-cmd-line/2556)
+...             The License is described in the LICENSE.md file.
 Library         Collections
 Library         MyLibrary
 Resource        keywords.robot

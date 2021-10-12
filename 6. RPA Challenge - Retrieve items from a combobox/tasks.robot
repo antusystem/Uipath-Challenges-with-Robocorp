@@ -2,6 +2,7 @@
 Documentation   This Robots solves Challengue 6 (https://forum.uipath.com/t/6-rpa-challenge-retrieve-items-from-a-combobox/2411)
 ...    to obtain the elements in a dropdown list or combobox. Thouhg, due to the page suggested to
 ...    use is a not so "stable" I use the web page https://ccxuf.csb.app/ in order to do what was asked.
+...    The License is described in the LICENSE.md file.
 Library         Collections
 Library         MyLibrary
 Resource        keywords.robot

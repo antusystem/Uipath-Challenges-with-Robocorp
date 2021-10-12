@@ -1,5 +1,6 @@
 *** Settings ***
 Documentation   This Robots solves the Challenge 5 (https://forum.uipath.com/t/5-rpa-challenge-reorganizing-excel-data-sheet/1036) of UiPath
+...             The License is described in the LICENSE.md file.
 Library         Collections
 Library         MyLibrary
 Resource        keywords.robot

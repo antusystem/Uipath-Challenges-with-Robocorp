@@ -1,5 +1,6 @@
 *** Settings ***
 Documentation   This bot completes the challege 4 in https://forum.uipath.com/t/4-rpa-challenge-json-parsing/871
+...             The License is described in the LICENSE.md file.
 Library         Collections
 Library         MyLibrary
 Resource        keywords.robot
