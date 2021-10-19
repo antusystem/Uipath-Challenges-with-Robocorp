@@ -1,0 +1,25 @@
+From:
+DEMO - Sliced Invoices
+Suite 5A-1204
+123 Somewhere Street
+Your City AZ 12345
+admin@slicedinvoices.com
+To:
+Test Business
+123 Somewhere St
+Melbourne, VIC 3000
+test@test.com Invoice Number
+Order Number
+Invoice Date
+Due Date
+Total Due
+Rate/Price
+$85.00 Sub Total
+Tax
+Total Invoice
+INV-3337
+12345
+January 25, 2016
+January 31, 2016
+Hrs/Qty
+1.00
